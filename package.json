@@ -1,7 +1,7 @@
 {
-  "name": "raganork",
+  "name": "𝙸𝙳𝚄 𝚋𝚊𝚋𝚊 𝚘𝚏𝚏𝚒𝚌𝚒𝚊𝚕 🤓😋",
   "version": "1.0.2",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "𝙸𝙳𝚄 𝚋𝚊𝚋𝚊 𝚘𝚏𝚏𝚒𝚌𝚒𝚊𝚕 🤓😋 bot- Multi device version.",
   "main": "./Raganork/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
